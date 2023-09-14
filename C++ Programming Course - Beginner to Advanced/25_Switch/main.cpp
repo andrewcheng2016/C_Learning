@@ -49,14 +49,16 @@ int main(){
     std::cout << "Moving on" << std::endl;
 
 
-    /*
+    
     // Condition can only be integer of enum (We'll learn about enums later in the course)
     std::string name {"John"};
+    /*
     switch (name) // Compiler error!
     {
     
     }
     */
+    
 
 
 
